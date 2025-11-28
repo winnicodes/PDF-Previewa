@@ -1,7 +1,7 @@
 
-# 🚀 PDF-Previewa - Fix your Windows PDF-Preview
+# 🚀 PDF-Previewa - Fix Your Windows PDF-Preview
 
-A lightweight, portable Windows utility that repairs broken PDF previews in Windows Explorer.
+A lightweight, portable Windows utility that removes the MotW from PDFs in Order to show the preview in Windows Explorer.
 
 ----------
 
@@ -133,3 +133,4 @@ Windows Explorer is 64-bit → the tool **must be compiled as x64**.
 If compiled as x86, registry paths are redirected to `Wow6432Node` and the context menu entry won't appear.
 
 ----------
+
